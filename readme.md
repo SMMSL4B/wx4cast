@@ -1,3 +1,5 @@
+https://wx4cast.smmslab.com
+
 # wx4cast - Weather Adviser Web Application
 
 wx4cast is a web application that provides personalized clothing advice based on weather conditions. Input a city and country to get real-time weather information and dressing recommendations. Built using Node.js, Express.js, HTML/CSS/JavaScript, and integrates with OpenWeatherMap API for weather data and Unsplash API for background images.
